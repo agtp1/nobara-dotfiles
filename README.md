@@ -1,4 +1,4 @@
-EXTENSIONS:
+- EXTENSIONS:
 ![imagen](https://github.com/user-attachments/assets/63fb87b3-e7be-4552-977b-52762bba3408)
 ![imagen](https://github.com/user-attachments/assets/00d4a8df-15b6-4678-bd16-1062c5652d91)
 ![imagen](https://github.com/user-attachments/assets/c4e66e7d-e6c9-4ca9-85a8-5bab314ddd8d)
@@ -8,7 +8,7 @@ EXTENSIONS:
 
 
 
-THEME-CURSOR-ICONS
+- THEME-CURSOR-ICONS
 ![imagen](https://github.com/user-attachments/assets/054c220f-288f-4ae6-a41f-30c04451c371)
 
 
