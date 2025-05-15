@@ -9,6 +9,7 @@
 
 
 - THEME-CURSOR-ICONS
+  
 ![imagen](https://github.com/user-attachments/assets/054c220f-288f-4ae6-a41f-30c04451c371)
 
 
