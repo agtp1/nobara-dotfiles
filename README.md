@@ -6,8 +6,11 @@ EXTENSIONS:
 
 
 
+
+
 THEME-CURSOR-ICONS
 ![imagen](https://github.com/user-attachments/assets/054c220f-288f-4ae6-a41f-30c04451c371)
+
 
 
 ![Captura desde 2025-05-10 01-37-56](https://github.com/user-attachments/assets/2b7b2b98-9685-4c51-8876-34b4bb2deba4)
