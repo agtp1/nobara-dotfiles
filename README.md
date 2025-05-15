@@ -1,10 +1,15 @@
 EXTENSIONS:
-![image](https://github.com/user-attachments/assets/25e0af1a-aef6-4d09-a0d5-0ad6f5360e38)
-![image](https://github.com/user-attachments/assets/8d09fd12-7e9b-4ad5-863d-41e1fb035f27)
-![image](https://github.com/user-attachments/assets/42b7e5ff-7312-463f-98b3-213df8e6f83a)
+![imagen](https://github.com/user-attachments/assets/63fb87b3-e7be-4552-977b-52762bba3408)
+![imagen](https://github.com/user-attachments/assets/00d4a8df-15b6-4678-bd16-1062c5652d91)
+![imagen](https://github.com/user-attachments/assets/c4e66e7d-e6c9-4ca9-85a8-5bab314ddd8d)
 
-![WhatsApp Image 2024-12-09 at 13 27 29](https://github.com/user-attachments/assets/645d4821-6574-4586-a196-3d1901232bea)
-![WhatsApp Image 2024-12-09 at 22 59 12](https://github.com/user-attachments/assets/bcfdacf4-0fcb-419b-a1bf-ad1885a5ae0f)
-![WhatsApp Image 2024-12-09 at 13 29 40](https://github.com/user-attachments/assets/d0f69dd1-25fa-4d62-9f4c-129ce6601244)
-![WhatsApp Image 2024-12-09 at 13 29 29](https://github.com/user-attachments/assets/c44ac953-f800-41e3-9990-0a57361e8c50)
-![WhatsApp Image 2024-12-09 at 13 28 27](https://github.com/user-attachments/assets/45ecbcf2-5517-45f8-84db-1d770a6175a7)
+THEME-CURSOR-ICONS
+![imagen](https://github.com/user-attachments/assets/054c220f-288f-4ae6-a41f-30c04451c371)
+
+
+![Captura desde 2025-05-10 01-37-56](https://github.com/user-attachments/assets/2b7b2b98-9685-4c51-8876-34b4bb2deba4)
+![Imagen pegada](https://github.com/user-attachments/assets/a4b178be-c076-43ca-9eb7-7a99dbf638f3)
+![Captura desde 2025-05-10 01-45-11](https://github.com/user-attachments/assets/e3c8e452-e846-486b-b3af-93e231301a1e)
+![Captura desde 2025-05-10 01-39-42](https://github.com/user-attachments/assets/97e28df1-b906-426c-8472-778964906de2)
+![Captura desde 2025-05-10 01-39-04](https://github.com/user-attachments/assets/635ce3fc-15d3-4dd0-bc5e-7f951440e495)
+![Captura desde 2025-05-10 01-38-17](https://github.com/user-attachments/assets/4bbd282a-48a7-45fc-8d08-b8ad41e6cc9f)
