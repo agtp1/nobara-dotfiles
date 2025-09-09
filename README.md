@@ -1,3 +1,4 @@
+RICE 1:
 - EXTENSIONS:
   
 ![imagen](https://github.com/user-attachments/assets/63fb87b3-e7be-4552-977b-52762bba3408)
@@ -20,3 +21,7 @@
 ![Captura desde 2025-05-10 01-39-42](https://github.com/user-attachments/assets/97e28df1-b906-426c-8472-778964906de2)
 ![Captura desde 2025-05-10 01-39-04](https://github.com/user-attachments/assets/635ce3fc-15d3-4dd0-bc5e-7f951440e495)
 ![Captura desde 2025-05-10 01-38-17](https://github.com/user-attachments/assets/4bbd282a-48a7-45fc-8d08-b8ad41e6cc9f)
+
+
+RICE 2:
+- EXTENSIONS
