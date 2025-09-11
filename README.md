@@ -75,6 +75,17 @@ toolkit.legacyUserProfileCustomizations.stylesheets  (put true)
 
 <img width="1691" height="133" alt="imagen" src="https://github.com/user-attachments/assets/ec16c9ac-ce88-4d06-87ab-2a4c56a3ec1b" />
 
+UTILITIES:
+
+sudo dnf install cmatrix
+
+sudo dnf install cava
+
+CAVA: Custom colors catppuccin
+
+CAVA CONFIG: https://mega.nz/folder/QQgzBDrL#uT7a_ARRakJ2dikASTBOxw
+
+
 RICE:
 
 <img width="1080" height="606" alt="imagen" src="https://github.com/user-attachments/assets/e0bbe764-0109-43d2-a719-4fc651862884" />
