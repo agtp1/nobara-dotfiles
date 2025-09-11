@@ -45,167 +45,12 @@ Spotify: Spicetify with text theme catppuccin mocha
 Kitty: Colors with gogh (catppuccin mocha)
 
 Fast fetch config:
-//    ______           __  ______      __ 
-//   / ____/___ ______/ /_/ ____/___ _/ /_
-//  / /_  / __ `/ ___/ __/ /   / __ `/ __/
-// / __/ / /_/ (__  ) /_/ /___/ /_/ / /_  
-///_/    \__,_/____/\__/\____/\__,_/\__/  
-//  https://github.com/m3tozz/FastCat
-{
-    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
-    "logo": {
 
-"type": "kitty",
-
-"source": "/home/agt_p1/.config/fastfetch/saslogoo.png", // o cualquier ruta válida
-
-"width": 35,
-
-"height": 17,
-
-"padding": {
-
-"top": 4
-
-}
-
-  
-
-},
-    "modules": [
-        "break",
-        {
-            "type": "custom",
-            "format": "\u001b[94m┌──────────────────────Hardware──────────────────────┐"
-        },
-        {
-            "type": "host",
-            "key": " PC",
-            "keyColor": "green"
-        },
-        {
-            "type": "cpu",
-            "key": "│ ├",
-            "showPeCoreCount": true,
-            "keyColor": "green"
-        },
-        {
-            "type": "gpu",
-            "key": "│ ├󰍛",
-            "keyColor": "green"
-        },
-        {
-            "type": "memory",
-            "key": "│ ├󰍛",
-            "keyColor": "green"
-        },
-        {
-            "type": "disk",
-            "key": "└ └",
-            "keyColor": "green"
-        },
-        {
-            "type": "custom",
-            "format": "\u001b[94m└────────────────────────────────────────────────────┘"
-        },
-        "break",
-        {
-            "type": "custom",
-            "format": "\u001b[94m┌──────────────────────Software──────────────────────┐"
-        },
-        {
-            "type": "os",
-            "key": " OS",
-            "keyColor": "yellow"
-        },
-        {
-            "type": "kernel",
-            "key": "│ ├",
-            "keyColor": "yellow"
-        },
-        {
-            "type": "packages",
-            "key": "│ ├󰏖",
-            "keyColor": "yellow"
-        },
-        {
-            "type": "shell",
-            "key": "└ └",
-            "keyColor": "yellow"
-        },
-        "break",
-        {
-            "type": "custom",
-            "format": "\u001b[94m┌──────────────────────Desktop───────────────────────┐"
-        },
-        {
-            "type": "de",
-            "key": " DE",
-            "keyColor": "blue"
-        },
-        {
-            "type": "lm",
-            "key": "│ ├",
-            "keyColor": "blue"
-        },
-        {
-            "type": "wm",
-            "key": "│ ├",
-            "keyColor": "blue"
-        },
-        {
-            "type": "wmtheme",
-            "key": "│ ├󰉼",
-            "keyColor": "blue"
-        },
-        {
-            "type": "gpu",
-            "key": "└ └󰍛",
-            "format": "{3}",
-            "keyColor": "blue"
-        },
-        {
-            "type": "custom",
-            "format": "\u001b[94m└────────────────────────────────────────────────────┘"
-        },
-        "break",
-        {
-            "type": "custom",
-            "format": "\u001b[94m┌────────────────────Uptime / Age────────────────────┐"
-        },
-        {
-            "type": "command",
-            "key": "  OS Age ",
-            "keyColor": "magenta",
-            "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days"
-        },
-        {
-            "type": "uptime",
-            "key": "  Uptime ",
-            "keyColor": "magenta"
-        },
-        {
-            "type": "custom",
-            "format": "\u001b[94m└────────────────────────────────────────────────────┘"
-        },
-        "break"
-    ]
-}
+https://mega.nz/folder/QcR21LzQ#3mHpkAbgEVfDb_4fixYivg
 
 Kitty conf:
 
-cursor                #eebf37
-selection_background  #6f6a4e
-selection_foreground #1e1c44
-font_family MesloLGS NF Bold
-font_size 12.0
-hide_window_decorations yes
-include theme.conf
-background_opacity 0.8	
-
-
-# Added by Gogh
-include colors.conf
+https://mega.nz/file/QMQRAAKK#z-u4JbCoAdcuk5JarTbgd3sI4I6B-YlSc21y2Lh4QjA
 
 Discord: Better discord with custom css:
 
@@ -230,17 +75,23 @@ toolkit.legacyUserProfileCustomizations.stylesheets  (put true)
 
 <img width="1691" height="133" alt="imagen" src="https://github.com/user-attachments/assets/ec16c9ac-ce88-4d06-87ab-2a4c56a3ec1b" />
 
-/home/agt_p1/Documentos/SO LOFII/Captura desde 2025-09-11 22-21-39.png
+RICE:
 
-/home/agt_p1/Documentos/SO LOFII/Captura desde 2025-09-11 22-33-13.png
+<img width="1080" height="606" alt="imagen" src="https://github.com/user-attachments/assets/e0bbe764-0109-43d2-a719-4fc651862884" />
 
-/home/agt_p1/Documentos/SO LOFII/Captura desde 2025-09-11 22-35-12.png
+<img width="1080" height="606" alt="imagen" src="https://github.com/user-attachments/assets/2129761e-7c7c-4513-b7d3-9e4f038eb5dc" />
 
-/home/agt_p1/Documentos/SO LOFII/Captura desde 2025-09-11 22-35-44.png
+<img width="1080" height="606" alt="imagen" src="https://github.com/user-attachments/assets/edbec423-a22f-4b22-8872-f4f719754662" />
 
-/home/agt_p1/Documentos/SO LOFII/Captura desde 2025-09-11 22-36-04.png
+<img width="1080" height="606" alt="imagen" src="https://github.com/user-attachments/assets/d6e7e1ce-0a6a-46ab-aeaf-c0d4155da553" />
 
-/home/agt_p1/Documentos/SO LOFII/Captura desde 2025-09-11 22-36-20.png
+<img width="1080" height="606" alt="imagen" src="https://github.com/user-attachments/assets/9992c746-584e-4ac1-b7b4-3d9ce34be6db" />
 
-/home/agt_p1/Documentos/SO LOFII/Captura desde 2025-09-11 22-36-46.png
+<img width="1080" height="606" alt="imagen" src="https://github.com/user-attachments/assets/5a2549c4-de83-4ed0-a35b-41fc251b4463" />
+
+<img width="1080" height="606" alt="imagen" src="https://github.com/user-attachments/assets/d2bf41e7-6256-4f77-a46c-39823304b323" />
+
+
+
+
 
