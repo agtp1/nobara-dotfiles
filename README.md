@@ -59,6 +59,7 @@ Discord: Better discord with custom css:
 
 <img width="1043" height="703" alt="imagen" src="https://github.com/user-attachments/assets/3bc47ab6-1cb9-4ade-9615-9a1657ff007d" />
 
+Visual Studio: Cattpuccin mocha Theme. Material Icons
 
 Zen Browser: With catppuccin colors:
 
