@@ -36,6 +36,8 @@ BLUR MY SHELL:
 
 <img width="638" height="582" alt="imagen" src="https://github.com/user-attachments/assets/021402f7-296c-4b18-9792-01f118c13df3" />
 
+QUITAMOS EL PRIMER EFECTO DE TODOS, PORQUE SINO SE VERÁ MAL LA TOPBAR
+
 GNOME SHELL: https://mega.nz/folder/0ApTGZpD#NpFymCIXiFpw2oS-3z5DQA
 
 ICONS: Tela circle
